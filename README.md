@@ -58,7 +58,7 @@ And well, I like ice cream 😄
 1. Clone the repo  
    ```bash
    git clone https://github.com/vikky2810/icecream-revenue-prediction.git
-````
+   ```
 
 2. Navigate into the project
 
@@ -72,7 +72,6 @@ And well, I like ice cream 😄
    jupyter notebook IceCream_Revenue_Prediction_Project_by_Vikram_Kamble.ipynb
    ```
 
----
 
 ## 📬 Contact
 
@@ -81,6 +80,5 @@ If you want to reach out:
 * Email: [kamblevikram2810@gmail.com](mailto:kamblevikram2810@gmail.com)
 * LinkedIn: [Vikram Kamble](https://www.linkedin.com/in/vikramkamble/)
 
-```
 
 
