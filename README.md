@@ -48,7 +48,7 @@ And well, I like ice cream 😄
 
 ## 📁 Files
 
-- `IceCream_Revenue_Prediction_Project.ipynb`: The main notebook
+- `IceCream_Revenue_Prediction_Project_by_Vikram_Kamble.ipynb`: The main notebook
 - `README.md`: Project overview and instructions
 
 ---
@@ -57,7 +57,7 @@ And well, I like ice cream 😄
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/icecream-revenue-prediction.git
+   git clone https://github.com/vikky2810/icecream-revenue-prediction.git
 ````
 
 2. Navigate into the project
@@ -69,7 +69,7 @@ And well, I like ice cream 😄
 3. Open the notebook in Jupyter
 
    ```bash
-   jupyter notebook IceCream_Revenue_Prediction_Project.ipynb
+   jupyter notebook IceCream_Revenue_Prediction_Project_by_Vikram_Kamble.ipynb
    ```
 
 ---
